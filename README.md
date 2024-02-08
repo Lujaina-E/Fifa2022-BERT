@@ -7,6 +7,6 @@
  
 - Technologies used: Bert-Clustering, Numpy, Pandas, Seaborn, Sklearn, Tensorflow, Transformers, Pytorch
 
-## Next Steps
+## Future Features and Next Steps
 
-Unfortunately, the lack of results made it less worthwhile to further develop a proper front-end interface to interact with the model.
+Unfortunately, the lack of results made it less worthwhile to further develop a proper front-end interface to interact with the model. To improve the model, more significant data would need to be collected. 
